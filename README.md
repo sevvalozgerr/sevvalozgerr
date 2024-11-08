@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m a recent graduate of Computer Engineering.
+- 🔭 I’m a Computer Engineer.
 - 🌱 I’m interested in all things Programming & Data Science
 
 
